@@ -1,0 +1,5 @@
+### DOUBTS ###
+"""
+* import and from import
+* python virtual env
+"""
